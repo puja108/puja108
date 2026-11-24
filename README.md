@@ -1,4 +1,10 @@
-## Hi there 👋
+
+<a href="https://certdirectory.io/profile/puja?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/puja.svg?style=card&theme=dark">
+    <img alt="Puja Abbassi on CertDirectory" src="https://certdirectory.io/badge/puja.svg?style=card">
+  </picture>
+</a>
 
 <!--
 **puja108/puja108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
